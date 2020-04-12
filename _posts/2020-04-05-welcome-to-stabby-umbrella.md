@@ -2,11 +2,13 @@
 layout: post
 title:  "Welcome to Stabby Umbrella!"
 date:   2020-04-05 20:24:04 -0600
-categories:
-   20quarantine
-   introduction
+tags:
+   - 20quarantine
+   - welcome
+   - introduction
+category: Introduction
 created: 2020/04/05 20:24:04
-last modified: 2020/04/12 14:42:18
+last modified: 2020/04/12 15:52:37
 ---
 
 I've always liked the idea of blogging in theory and concept, and have equally always been poor in the execution. But none of the current fandom-y blog areas seem to suit _precisely_, and I want a place to crosspost some of my tumblr ramblings, as well as my longer-form fandom-and-life ramblings.
